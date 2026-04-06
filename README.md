@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19444965.svg)](https://doi.org/10.5281/zenodo.19444965)
 # alpha-synuclein-evolution
 Intra-Individual α-Synuclein Strain Maturation Underlies the Transition to Parkinson's Dementia 
 ## Overview
